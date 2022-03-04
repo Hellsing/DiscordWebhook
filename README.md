@@ -7,3 +7,7 @@ Currently the list of features is very limited due to the requirements that I pe
 ## References
 * [Execute Webhook API](https://discordapp.com/developers/docs/resources/webhook#execute-webhook)
 * [Embed Object API](https://discordapp.com/developers/docs/resources/channel#embed-object)
+
+## Changes
+
+- Pronner: This seemed a bit outdated, just decided to make it up-to-date and a bit more flexible.
