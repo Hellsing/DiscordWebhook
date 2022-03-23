@@ -1,9 +1,13 @@
 # DiscordWebhook
-Discord webhook library in C#
+Discord webhook library in C# [Updated]
 
 ## Features
-Currently the list of features is very limited due to the requirements that I personally had when creating this library. The goal is to send a webhook request to Discord, there is no validation and no handling of rate limits, which I will add later on. The whole purpose right now is to send quick webhook requests without having to use bloated libraries with bot features which you don't need for pure webhooks.
+The ability to send Webhooks without being rate-limited. In the past, there were more features that you can probably see from the fork created **5 years ago**, unfortunately, they were removed since they were a bit outdated. This is the improved and one of the recent ways to send a webhook message.
 
 ## References
 * [Execute Webhook API](https://discordapp.com/developers/docs/resources/webhook#execute-webhook)
 * [Embed Object API](https://discordapp.com/developers/docs/resources/channel#embed-object)
+
+## Changes
+
+- Pronner: This seemed a bit outdated, just decided to make it up-to-date and a bit more flexible.
